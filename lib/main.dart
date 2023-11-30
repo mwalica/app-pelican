@@ -35,7 +35,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'apppelican.com',
       theme: ThemeData.dark(),
-      color: const Color.fromARGB(255, 41, 47, 54),
+      // color: const Color.fromARGB(255, 41, 47, 54),
       home: const WebViewScreen(),
     );
   }
